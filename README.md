@@ -118,4 +118,3 @@ This comprehensive ML system classifies German traffic signs using multiple mach
 
 ---
 
-**Author**: Cheryl Biju | [GitHub](https://github.com/cbm2001) | [LinkedIn](https://linkedin.com/in/cheryl-biju)
